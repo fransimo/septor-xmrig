@@ -1,4 +1,4 @@
-# Septor Xmrig
+# Septor XMRig
 
 WARNING: This is a beta version. It uses a fixed wallet address for testing purposes.
 
